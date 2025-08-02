@@ -64,12 +64,14 @@ Run the Application:
 
 ```npm start``` 
 
-📈 Future Enhancements
+**📈 Future Enhancements**
+
 💳 Payment Integration – Add online payment gateway for bookings.
 
 🧠 Recommendation Engine – Suggest listings based on user behavior.
 
-📚 Acknowledgements
+**📚 Acknowledgements**
+
 🙏 Thanks to Apna College and mentors Shardha Kapra & Aman Dattarwala for their guidance during the MERN Stack course.
 
 💡 Inspired by Airbnb
